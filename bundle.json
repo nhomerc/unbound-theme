@@ -49,10 +49,6 @@
     "RED_400": "#982929",
     "YELLOW_300": "#FAA61A",
     "PURPLE_500": "#593695"
-  },
-  "background": {
-    "url": "https://clearvision.github.io/images/sapphire.jpg",
-    "blur": 2,
-    "opacity": 0.42
   }
+
 }
