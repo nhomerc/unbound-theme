@@ -1,0 +1,51 @@
+{
+  "type": "dark",
+  "semantic": {
+    "BACKGROUND_PRIMARY": { "type": "color", "value": "rgba(18, 20, 26, 0.76)" },
+    "BACKGROUND_SECONDARY": { "type": "color", "value": "rgba(13, 15, 21, 0.80)" },
+    "BACKGROUND_SECONDARY_ALT": { "type": "color", "value": "rgba(9, 11, 16, 0.84)" },
+    "BACKGROUND_TERTIARY": { "type": "color", "value": "rgba(7, 9, 14, 0.88)" },
+    "BACKGROUND_FLOATING": { "type": "color", "value": "rgba(16, 18, 24, 0.91)" },
+    "BACKGROUND_MOBILE_PRIMARY": { "type": "color", "value": "rgba(18, 20, 26, 0.76)" },
+    "BACKGROUND_MOBILE_SECONDARY": { "type": "color", "value": "rgba(13, 15, 21, 0.80)" },
+    "BACKGROUND_ACCENT": { "type": "color", "value": "rgba(39, 128, 230, 0.24)" },
+    "BACKGROUND_MODIFIER_HOVER": { "type": "color", "value": "rgba(255, 255, 255, 0.045)" },
+    "BACKGROUND_MODIFIER_ACTIVE": { "type": "color", "value": "rgba(255, 255, 255, 0.075)" },
+    "BACKGROUND_MODIFIER_SELECTED": { "type": "color", "value": "rgba(39, 128, 230, 0.22)" },
+    "TEXT_NORMAL": { "type": "color", "value": "#D8D8DB" },
+    "TEXT_MUTED": { "type": "color", "value": "#AEAEB4" },
+    "TEXT_LINK": { "type": "color", "value": "#2780E6" },
+    "TEXT_BRAND": { "type": "color", "value": "#2780E6" },
+    "TEXT_POSITIVE": { "type": "color", "value": "#43B581" },
+    "TEXT_WARNING": { "type": "color", "value": "#FAA61A" },
+    "TEXT_DANGER": { "type": "color", "value": "#E05252" },
+    "HEADER_PRIMARY": { "type": "color", "value": "#FBFBFB" },
+    "HEADER_SECONDARY": { "type": "color", "value": "#B7B7C0" },
+    "INTERACTIVE_NORMAL": { "type": "color", "value": "#B1B1BB" },
+    "INTERACTIVE_HOVER": { "type": "color", "value": "#F2F2F5" },
+    "INTERACTIVE_ACTIVE": { "type": "color", "value": "#FFFFFF" },
+    "INTERACTIVE_MUTED": { "type": "color", "value": "#686A73" },
+    "BUTTON_BACKGROUND": { "type": "color", "value": "#2780E6" },
+    "BUTTON_BRAND_BACKGROUND": { "type": "color", "value": "#2780E6" },
+    "BUTTON_BRAND_BACKGROUND_HOVER": { "type": "color", "value": "#1E63B3" },
+    "BUTTON_DANGER_BACKGROUND": { "type": "color", "value": "#982929" },
+    "CHANNELS_DEFAULT": { "type": "color", "value": "#D8D8DB" },
+    "CHANNEL_ICON": { "type": "color", "value": "#94949C" },
+    "BORDER_SUBTLE": { "type": "color", "value": "rgba(255, 255, 255, 0.08)" },
+    "BORDER_STRONG": { "type": "color", "value": "rgba(255, 255, 255, 0.15)" },
+    "INPUT_BACKGROUND": { "type": "color", "value": "rgba(0, 0, 0, 0.24)" },
+    "MESSAGE_HOVER_BACKGROUND": { "type": "color", "value": "rgba(255, 255, 255, 0.035)" }
+  },
+  "raw": {
+    "systemBlueColor": "#2780E6",
+    "systemGreenColor": "#43B581",
+    "systemRedColor": "#982929",
+    "systemOrangeColor": "#FAA61A",
+    "systemPurpleColor": "#593695"
+  },
+  "background": {
+    "url": "https://clearvision.github.io/images/sapphire.jpg",
+    "blur": 2,
+    "opacity": 0.42
+  }
+}
