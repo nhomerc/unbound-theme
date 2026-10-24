@@ -10,5 +10,5 @@
     }
   ],
   "version": "1.0.0",
-  "main": "[https://raw.githubusercontent.com/nhomerc/unbound-theme/refs/heads/main/bundle.json](https://raw.githubusercontent.com/nhomerc/unbound-theme/refs/heads/main/bundle.json)"
+  "main": "bundle.json"
 }
